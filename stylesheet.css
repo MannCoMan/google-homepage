@@ -1,0 +1,64 @@
+
+
+li {
+    display: inline;
+    float: right;
+    text-align: center;
+}
+
+#google {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#search {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	border: 1px solid gray;
+	width: 40%;
+	height: 40px;
+	box-shadow: 0 5px 10px 0px gray;
+}
+
+#search:hover {
+	box-shadow: 0 5px 15px 0px gray;
+}
+
+#keyboard {
+	display: block;
+	margin-left: 90%;
+	margin-top: 1%;
+}
+
+.button {
+	display: inline-block;
+	width: 100px;
+	height: 40px;
+	font-size: 10px;
+	margin-top: 2%;
+	background-color: #f2f2f3;
+	text-align: center;
+	vertical-align: middle;
+	color: gray;
+}
+
+.button:hover {
+	border: 1px solid gray;
+	color: black;
+}
+
+#button1{
+	margin-left: 41%;
+}
+
+#google-services {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	margin-top: 2%;
+	font-size: 15px;
+}
+
